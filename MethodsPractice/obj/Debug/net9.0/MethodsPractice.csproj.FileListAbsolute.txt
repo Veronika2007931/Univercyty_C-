@@ -1,0 +1,15 @@
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\bin\Debug\net9.0\MethodsPractice.exe
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\bin\Debug\net9.0\MethodsPractice.deps.json
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\bin\Debug\net9.0\MethodsPractice.runtimeconfig.json
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\bin\Debug\net9.0\MethodsPractice.dll
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\bin\Debug\net9.0\MethodsPractice.pdb
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\MethodsPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\MethodsPractice.AssemblyInfoInputs.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\MethodsPractice.AssemblyInfo.cs
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\MethodsPractice.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\MethodsPractice.sourcelink.json
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\MethodsPractice.dll
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\refint\MethodsPractice.dll
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\MethodsPractice.pdb
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\MethodsPractice.genruntimeconfig.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\MethodsPractice\obj\Debug\net9.0\ref\MethodsPractice.dll
