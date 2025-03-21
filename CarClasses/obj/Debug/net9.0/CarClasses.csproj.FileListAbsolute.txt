@@ -1,0 +1,15 @@
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\bin\Debug\net9.0\CarClasses.exe
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\bin\Debug\net9.0\CarClasses.deps.json
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\bin\Debug\net9.0\CarClasses.runtimeconfig.json
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\bin\Debug\net9.0\CarClasses.dll
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\bin\Debug\net9.0\CarClasses.pdb
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\CarClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\CarClasses.AssemblyInfoInputs.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\CarClasses.AssemblyInfo.cs
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\CarClasses.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\CarClasses.sourcelink.json
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\CarClasses.dll
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\refint\CarClasses.dll
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\CarClasses.pdb
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\CarClasses.genruntimeconfig.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\CarClasses\obj\Debug\net9.0\ref\CarClasses.dll
