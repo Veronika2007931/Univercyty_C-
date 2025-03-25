@@ -55,11 +55,7 @@ Console.SetBufferSize(80, 80);
 
 // using the method 
 Console.SetCursorPosition(20, 20);
-Prog();
 
-
- static void Prog()
-{
 
     string text = "ProgramTitle";
     Console.Title = text;
@@ -86,5 +82,5 @@ Prog();
     Console.WriteLine($"3  {word} |{word}  4");
     Console.BackgroundColor = ConsoleColor.Black;
 
-}
+
 
