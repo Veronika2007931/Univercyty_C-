@@ -74,21 +74,21 @@
 //     Console.Write(number);
 // }
 
-string[,,] thirdArray = new string[2, 3, 4];
+// string[,,] thirdArray = new string[2, 3, 4];
 
-for (int x = 0; x < 2; x++)
-{
-    for (int y = 0; y < 3; y++)
-    {
-        for (int z = 0; z < 4; z++)
-        {
+// for (int x = 0; x < 2; x++)
+// {
+//     for (int y = 0; y < 3; y++)
+//     {
+//         for (int z = 0; z < 4; z++)
+//         {
 
-            thirdArray[x, y, z] = "a";
-            Console.Write(thirdArray[x, y, z] + "\t");
+//             thirdArray[x, y, z] = "a";
+//             Console.Write(thirdArray[x, y, z] + "\t");
 
-        }
-        Console.WriteLine();
-    }
-    Console.WriteLine();
-}
-;
+//         }
+//         Console.WriteLine();
+//     }
+//     Console.WriteLine();
+// }
+// ;
