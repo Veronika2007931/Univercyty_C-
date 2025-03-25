@@ -48,40 +48,43 @@ Console.OutputEncoding = Encoding.Unicode;
 // Console.SetWindowSize(40, 40);
 
 // setting the window size 
-Console.SetWindowSize(40, 40);
+// Console.SetWindowSize(40, 40);
 
 // setting buffer size of console 
 Console.SetBufferSize(80, 80);
 
 // using the method 
 Console.SetCursorPosition(20, 20);
+Prog();
 
 
-string text = "ProgramTitle";
-Console.Title = text;
-Console.BackgroundColor = ConsoleColor.Blue;
-Console.SetCursorPosition(20, 20);
-Console.WriteLine(Console.Title);
-Console.BackgroundColor = ConsoleColor.Black;
-Console.SetCursorPosition(20, 20);
-Console.WriteLine("-----------------");
-Console.ForegroundColor = ConsoleColor.Green;
-Console.SetCursorPosition(20, 20);
-Console.WriteLine("Введіть слово");
-string word = Console.ReadLine();
-Console.ForegroundColor = ConsoleColor.Black;
-Console.SetCursorPosition(20, 20);
-Console.WriteLine("-----------------");
-Console.BackgroundColor = ConsoleColor.Yellow;
-Console.SetCursorPosition(20, 20);
-Console.WriteLine($"1  {word} |{word}  2");
-Console.SetCursorPosition(20, 20);
+ static void Prog()
+{
 
-Console.WriteLine($"   {word} |{word}   ");
-Console.SetCursorPosition(20, 20);
-Console.WriteLine($"3  {word} |{word}  4");
-Console.BackgroundColor = ConsoleColor.Black;
+    string text = "ProgramTitle";
+    Console.Title = text;
+    Console.BackgroundColor = ConsoleColor.Blue;
+    
+    Console.WriteLine(Console.Title);
+    Console.BackgroundColor = ConsoleColor.Black;
+
+    Console.WriteLine("-----------------");
+    Console.ForegroundColor = ConsoleColor.Green;
+
+    Console.WriteLine("Введіть слово");
+    string word = Console.ReadLine();
+    Console.ForegroundColor = ConsoleColor.Black;
+
+    Console.WriteLine("-----------------");
+    Console.BackgroundColor = ConsoleColor.Yellow;
+
+    Console.WriteLine($"1  {word} |{word}  2");
 
 
+    Console.WriteLine($"   {word} |{word}   ");
 
+    Console.WriteLine($"3  {word} |{word}  4");
+    Console.BackgroundColor = ConsoleColor.Black;
+
+}
 
