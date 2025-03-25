@@ -48,7 +48,7 @@ Console.OutputEncoding = Encoding.Unicode;
 // Console.SetWindowSize(40, 40);
 
 // setting the window size 
-// Console.SetWindowSize(40, 40);
+Console.SetWindowSize(40, 40);
 
 // setting buffer size of console 
 Console.SetBufferSize(80, 80);
