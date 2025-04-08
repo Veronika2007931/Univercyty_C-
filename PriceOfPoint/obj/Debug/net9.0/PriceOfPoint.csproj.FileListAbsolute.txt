@@ -3,3 +3,13 @@ D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\Pric
 D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.AssemblyInfo.cs
 D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.csproj.CoreCompileInputs.cache
 D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.sourcelink.json
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\bin\Debug\net9.0\PriceOfPoint.exe
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\bin\Debug\net9.0\PriceOfPoint.deps.json
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\bin\Debug\net9.0\PriceOfPoint.runtimeconfig.json
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\bin\Debug\net9.0\PriceOfPoint.dll
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\bin\Debug\net9.0\PriceOfPoint.pdb
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.dll
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\refint\PriceOfPoint.dll
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.pdb
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.genruntimeconfig.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\ref\PriceOfPoint.dll
