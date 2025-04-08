@@ -1,0 +1,5 @@
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.AssemblyInfoInputs.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.AssemblyInfo.cs
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\PriceOfPoint\obj\Debug\net9.0\PriceOfPoint.sourcelink.json
