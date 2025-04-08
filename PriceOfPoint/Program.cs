@@ -1,4 +1,9 @@
-﻿
+﻿using System.Globalization;
+using System.Text;
+using Microsoft.VisualBasic;
+Console.InputEncoding = Encoding.Unicode;
+
+Console.OutputEncoding = Encoding.Unicode;
 // 1
 
 // Product[] products = new Product[5];
@@ -83,5 +88,56 @@ Console.WriteLine("Enter letter number of what you want to know");
 string letter = Console.ReadLine();
 
 string result = Array.Find(alphabet, l => l == letter);
-int index = Array.IndexOf(alphabet, result);
-Console.WriteLine($"{index + 1}");
+
+if (result != null)
+{
+    int index = Array.IndexOf(alphabet, result);
+    Console.WriteLine($"Порядковий номер: {index + 1}");
+
+}
+else
+{
+    Console.WriteLine("You entered something wrong");
+}
+
+
+
+foreach (string l in alphabet)
+{
+    Console.Write($"{l}");
+}
+
+
+string[] alphabet2 = new string[]
+{
+    "a", "б", "в", "г", "д", "е","є", "ж",
+    "з", "и", "і", "ї", "й", "к", "л",
+    "м", "н", "о", "п", "р", "с", "т",
+    "у", "ф", "x", "ц", "ч","ш", "щ", "ь", "ю", "я"
+};
+
+foreach (string l in alphabet2)
+{
+    Console.Write($"{l}");
+}
+
+
+Dictionary<string, int> products =
+    new Dictionary<string, int>();
+
+products.Add("apple", 10);
+products.Add("banana", 15);
+products.Add("citruse", 20);
+products.Add("mango", 50);
+
+// Отримання значення за ключем
+int price = products["apple"];
+
+// Перевірка наявності ключа у словнику
+bool containsKey = products.ContainsKey("apple");
+
+// Зміна значення за ключем
+products["apple"] = 7;
+
+// Видалення елемента за ключем
+products.Remove("apple");
