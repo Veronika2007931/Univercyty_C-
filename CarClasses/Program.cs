@@ -6,12 +6,12 @@ Console.InputEncoding = Encoding.Unicode;
 
 Console.OutputEncoding = Encoding.Unicode;
 
-// Produser produser1 = new Produser(1, "Skoda", "Ukraine");
-// Car miniCooper = new Car("miniCooper", "S", produser1, 2018, 44, 0.068, 13, 15000);
-// produser1.InformationProduser();
-// Console.WriteLine("Скільки кілометрів ви хочете проїхати?");
-// int kilometers = Convert.ToInt32(Console.ReadLine());
-// miniCooper.Moove(kilometers);
+Produser produser1 = new Produser(1, "Skoda", "Ukraine");
+Car miniCooper = new Car("miniCooper", "S", produser1, 2018, 44, 0.068, 13, 15000);
+produser1.InformationProduser();
+Console.WriteLine("Скільки кілометрів ви хочете проїхати?");
+int kilometers = Convert.ToInt32(Console.ReadLine());
+miniCooper.Moove(kilometers);
 Aviacompany aviacompany1 = new Aviacompany("Ryanair", 1980, 1500);
 // aviacompany1.Information();
 Plane plane1 = new Plane("Lizard", 2000, 800, 200, 100, aviacompany1, "red");
@@ -22,6 +22,7 @@ public class Produser
     public int Year;
     public string Contry;
     public string Name;
+
 
     public Produser(int year, string name, string contry)
     {

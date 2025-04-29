@@ -1,0 +1,5 @@
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\new\obj\Debug\net9.0\new.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\new\obj\Debug\net9.0\new.AssemblyInfoInputs.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\new\obj\Debug\net9.0\new.AssemblyInfo.cs
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\new\obj\Debug\net9.0\new.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Documents\GitHub\Univercyty_C-\new\obj\Debug\net9.0\new.sourcelink.json

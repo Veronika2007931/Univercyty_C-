@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsPractice", "MethodsP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceOfPoint", "PriceOfPoint\PriceOfPoint.csproj", "{691EA146-9578-449B-BC08-6083FA1B8F8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new", "new\new.csproj", "{549767FD-CB64-4772-B4FA-0D9A6F4F085D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{691EA146-9578-449B-BC08-6083FA1B8F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{691EA146-9578-449B-BC08-6083FA1B8F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{691EA146-9578-449B-BC08-6083FA1B8F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549767FD-CB64-4772-B4FA-0D9A6F4F085D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549767FD-CB64-4772-B4FA-0D9A6F4F085D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549767FD-CB64-4772-B4FA-0D9A6F4F085D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549767FD-CB64-4772-B4FA-0D9A6F4F085D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
